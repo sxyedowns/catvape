@@ -11,8 +11,8 @@ local Directory = "catprivate"
 -- ==========================================
 -- CONFIGURE YOUR GITHUB REPO HERE
 -- ==========================================
-local GithubUser = "YOUR_USERNAME"
-local GithubRepo = "YOUR_REPO_NAME"
+local GithubUser = "sxyedowns"
+local GithubRepo = "catvape"
 local GithubBranch = "main"
 local GithubBase = string.format("https://raw.githubusercontent.com/%s/%s/%s/", GithubUser, GithubRepo, GithubBranch)
 -- ==========================================
