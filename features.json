@@ -1,0 +1,21 @@
+{
+	"added": [
+		"AutoStyx",
+		"MelodyExploit"
+	],
+	"updated": [
+		"Arrows",
+		"AutoMatchDodge",
+		"AutoPearl",
+		"BetterLighting",
+		"BowAssist",
+		"Damage Indicator",
+		"HitBoxes",
+		"NoFall",
+		"ProjectileAimbot",
+		"Scaffold",
+		"SilentAim",
+		"SkinChanger"
+	],
+	"text": "[BEDWARS]\n\u001b[2;32m[+]\u001b[0m Added Solara and Xeno support to BowAssist, DamageIndicator and HitBoxes\n\u001b[2;33m[!]\u001b[0m Fixed block placing on Solara and Xeno (no placing sound, blocks showing late and a wrong blocks left count)\n\u001b[2;33m[!]\u001b[0m Fixed many modules erroring on Solara and Xeno (the ones that can't work there now tell you and turn off)\n\u001b[2;32m[+]\u001b[0m Added AutoStyx (opens Styx's exit portals for you)\n\u001b[2;32m[+]\u001b[0m Added MelodyExploit (keeps healing you with a guitar)\n\u001b[2;32m[+]\u001b[0m Added Milo check to ProjectileAimbot and SilentAim (skips Milo players while they are disguised as blocks)\n\u001b[2;32m[+]\u001b[0m Added Rank check to AutoMatchDodge (only dodges in ranked queues)\n\u001b[2;34m[*]\u001b[0m Improved AutoPearl (shows where you can land and warns when you can't clutch)\n\u001b[2;34m[*]\u001b[0m Improved Scaffold's Block Count (new look that also shows how fast you place blocks)\n\u001b[2;33m[!]\u001b[0m Fixed NoFall spamming the server while you fall\n\u001b[2;33m[!]\u001b[0m Fixed the viewmodel animation bugging out\n\u001b[2;31m[-]\u001b[0m Removed AutoBank (patched)\n[UNIVERSAL]\n\u001b[2;34m[*]\u001b[0m Improved BetterLighting (new dawn and dusk looks, darker nights and an optional day and night cycle)\n\u001b[2;33m[!]\u001b[0m Fixed Arrows not showing anything\n[GENERAL]\n\u001b[2;34m[*]\u001b[0m Improved the AI Assistant (it now remembers things about you and can plan a setup for you)\n\u001b[2;33m[!]\u001b[0m Fixed performance issues"
+}
